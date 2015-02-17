@@ -1,0 +1,9 @@
+/bin
+bin
+obj
+/obj
+/debug
+/debug
+*.dll
+/packages
+packages/
